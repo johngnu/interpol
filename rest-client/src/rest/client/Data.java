@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class Data {
 
-    private List<Notice> notices;
+    private List<Notice> notices;    
 
     public List<Notice> getNotices() {
         return notices;
